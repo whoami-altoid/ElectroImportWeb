@@ -2004,7 +2004,7 @@ a:hover {
 
 .producto .precio {
     font-size: 1.1rem;
-    color: #ff0000; /* Color rojo para precios */
+    color: #003366; /* Color rojo para precios */
     font-weight: bold;
     margin: 5px 0;
 }
